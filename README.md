@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### SIMPLE IS THE BEST
+### 게을러서 공부하는 사람

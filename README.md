@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 게을러서 공부하는 사람
+### I'M STUDYING CAUSE I'M LAZY
+### SIMPLE IS THE BEST
+### HTML, CSS, SCSS, JAVASCRIPT, TYPESCRIPT, REACT, REDUX, RELAY, GRAPHQL, I'M STUDYING
+### HOBBY, CODING CHALLENGE && INTERACTIVE WEB

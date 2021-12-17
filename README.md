@@ -20,7 +20,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'M STUDYING CAUSE I'M LAZY
-### SIMPLE IS THE BEST
-### HTML, CSS, SCSS, JAVASCRIPT, TYPESCRIPT, REACT, REDUX, RELAY, GRAPHQL, I'M STUDYING
-### HOBBY, CODING CHALLENGE && INTERACTIVE WEB
+1. ### WHO AM I
+   * I'm studying cause I'm lazy
+
+2. ### VALUES
+   * Simple is the best
+
+3. ### LEARNING
+   * Achevement, HTML, CSS, SCSS, Javascript, Typescript, React, Redux, Relay, GraphQL
+
+4. ### I like to talk about
+   * Cding Challenge
+   * Interactive Web

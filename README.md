@@ -30,5 +30,5 @@ Here are some ideas to get you started:
    * Achevement, HTML, CSS, SCSS, Javascript, Typescript, React, Redux, Relay, GraphQL
 
 4. ### I like to talk about
-   * Cding Challenge
+   * Coding Challenge
    * Interactive Web

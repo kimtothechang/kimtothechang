@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 1. ### WHO AM I
-   * I'm studying cause I'm lazy
+   * I'm studying because I'm lazy
 
 2. ### VALUES
    * Simple is the best
@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 3. ### LEARNING
    * Achevement, HTML, CSS, SCSS, Javascript, Typescript, React, Redux, Relay, GraphQL
 
-4. ### I like to talk about
+4. ### Recent interests
    * Coding Challenge
    * Interactive Web

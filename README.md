@@ -28,7 +28,7 @@ Here are some ideas to get you started:
    * Make it work, Make it right, Make it fast
 
 3. ### LEARNING
-   * Achevement, HTML, CSS, SCSS, Javascript, Typescript, React, Redux, Relay, GraphQL
+   * Achevement, HTML, CSS, SCSS, Javascript, Typescript, React, Next, Redux, Relay, GraphQL
 
 4. ### Recent interests
    * Coding Challenge

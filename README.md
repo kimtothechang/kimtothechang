@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🧑‍💻 ### WHO AM I
+### 🧑‍💻 WHO AM I
    * I'm studying because I'm lazy
 
-💎 ### VALUES
+### 💎 VALUES
    * Simple is the best
    * Make it work, Make it right, Make it fast
 
-📝 ### LEARNING
+### 📝 LEARNING
    * HTML, CSS, SCSS, Javascript, Typescript, React, Next, Redux, Relay, GraphQL
 
-🤹 ### Recent interests
+### 🤹 Recent interests
    * Coding Challenge
    * Interactive Web

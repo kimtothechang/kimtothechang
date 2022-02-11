@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🧑‍💻 WHO AM I
-   * I'm studying because I'm lazy
+   * I'm FrontEnd Developer who love optimization
 
 ### 💎 VALUES
    * Simple is the best

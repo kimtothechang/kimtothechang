@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🧑‍💻 WHO AM I
-   * I'm FrontEnd Developer who love optimization
+   * FrontEnd Developer who love optimization
 
 ### 💎 VALUES
    * Simple is the best

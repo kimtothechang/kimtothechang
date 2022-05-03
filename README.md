@@ -28,8 +28,8 @@ Here are some ideas to get you started:
    * Make it work, Make it right, Make it fast
 
 ### 📝 LEARNING
-   * HTML, CSS, SCSS, Javascript, Typescript, React, Next, Recoil
+   * HTML, CSS, Javascript, Typescript, React, Next, Recoil
 
 ### 🤹 Recent interests
    * Coding Challenge
-   * Interactive Web
+   * Algorithm
